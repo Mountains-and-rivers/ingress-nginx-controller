@@ -1,4 +1,4 @@
-# controller部署验证
+# 部署controller
 
 ```
  kubectl apply -f ingress-nginx-controller.yaml
