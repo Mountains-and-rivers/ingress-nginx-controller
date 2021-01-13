@@ -13,7 +13,7 @@ nginx-ingress-controller-6bc9f8bb7d-ld6wx   1/1     Running   0          15m
 # 部署service nodePort
 
 ```
-kubectl apply -f service-nodePort.yam
+kubectl apply -f service-nodePort.yaml
 ```
 
 ```
